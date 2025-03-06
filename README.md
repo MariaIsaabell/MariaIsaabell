@@ -11,7 +11,6 @@ Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** pelo **S
 
 🔍 **Experiência Profissional**  
 🔸 **Estágio como Desenvolvedor de Sistemas** – CPTM  
-🔸 **Estágio como Suporte e Manutenção de TI** - Acciona
 
 📚 **Cursos Complementares**  
 🔹 **Power BI** – SENAI  

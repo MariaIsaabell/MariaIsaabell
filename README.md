@@ -6,19 +6,22 @@ Sou estudante de Ciência da Computação e de Desenvolvimento de Sistemas, curs
 
 ---
 
-🚀 **Formação Acadêmica**  
-🔹 **Bacharelado em Ciência da Computação (em andamento)** - Cruzeiro do Sul 
-
+ **Formação Acadêmica**  
+ 
+🔹 **Bacharelado em Ciência da Computação (em andamento)** - Cruzeiro do Sul  
 🔹 **Curso Técnico em Desenvolvimento de Sistemas** – SENAI
 
-🔍 **Experiência Profissional**  
-🔸 **Aprendiz em Desenvolvimento de Sistemas** – CPTM  
+**Experiência Profissional**  
 
-📚 **Cursos Complementares**  
+🔹 **Aprendiz em Desenvolvimento de Sistemas** – CPTM  
+
+**Cursos Complementares**  
+
 🔹 **Power BI** – SENAI  
 🔹 **Interface Web com Bootstrap** – SENAI
 
-💡 **Habilidades Técnicas**  
+ **Habilidades Técnicas**  
+
 🔧 Linguagens de Programação: [Python e JavaScript]  
 🌐 Desenvolvimento Web: HTML, CSS, JavaScript, Bootstrap  
 🔹 Ferramentas: Power BI, Git, GitHub  

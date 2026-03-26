@@ -8,6 +8,7 @@ Sou estudante de Ciência da Computação e de Desenvolvimento de Sistemas, curs
 
 🚀 **Formação Acadêmica**  
 🔹 **Bacharelado em Ciência da Computação (em andamento)** - Cruzeiro do Sul 
+
 🔹 **Curso Técnico em Desenvolvimento de Sistemas** – SENAI
 
 🔍 **Experiência Profissional**  
